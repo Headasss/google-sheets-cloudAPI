@@ -8,3 +8,5 @@ Google Sheets starter
 ### Sheets API includes functions to help you
 
 Create spreadsheets, read and write values, format, and connect sheets
+
+Cloud API client libraries, REST api to post to sheets. Post to the service endpoint URL.
